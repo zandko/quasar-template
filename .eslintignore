@@ -1,0 +1,16 @@
+/dist
+/src-bex/www
+/src-capacitor
+/src-cordova
+/.quasar
+/node_modules
+/src-ssr
+/src-pwa
+*.md
+*.scss
+*.woff
+*.ttf
+.vscode
+.idea
+/mock/
+/public
